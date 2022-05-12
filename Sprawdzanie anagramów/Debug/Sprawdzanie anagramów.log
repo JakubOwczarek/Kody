@@ -1,0 +1,4 @@
+﻿  Sprawdzanie anagramów.cpp
+D:\Users\jowczarek459\source\repos\Sprawdzanie anagramów\Sprawdzanie anagramów.cpp(29,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Users\jowczarek459\source\repos\Sprawdzanie anagramów\Sprawdzanie anagramów.cpp(30,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Sprawdzanie anagramów.vcxproj -> D:\Users\jowczarek459\source\repos\Sprawdzanie anagramów\Debug\Sprawdzanie anagramów.exe
